@@ -1,0 +1,6 @@
+{
+  "name": "Cute Birds",
+  "description": "Cute Birds - Trò chơi bay lượn cổ điển dễ thương với nhiều ngôn ngữ quốc tế, đa dạng skin chim, chu kỳ ngày/đêm và âm thanh retro vui nhộn.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
